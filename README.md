@@ -1,22 +1,25 @@
 <div align="center">
-<img src=".github/assets/icon.png" width="200" />
-<br><br>
+  <img src=".github/assets/icon.png" width="200" />
+  <br><br>
 
 **FeedDeck** is an open source RSS and social media feed reader, inspired by
 TweetDeck. FeedDeck allows you to follow your favorite feeds in one place on all
 platforms.
 
-<p>
-  <a href="https://apps.apple.com/us/app/feeddeck/id6451055362" target="_blank"><img src=".github/assets/badge-app-store.svg" height="50"></a>
-  <a href="https://play.google.com/store/apps/details?id=app.feeddeck.feeddeck" target="_blank"><img src=".github/assets/badge-google-play.svg" height="50"></a>
-  <a href="https://app.feeddeck.app" target="_blank"><img src=".github/assets/badge-web.svg" height="50"></a>
-  <a href="https://apps.apple.com/us/app/feeddeck/id6451055362" target="_blank"><img src=".github/assets/badge-mac-app-store.svg" height="50"></a>
-  <a href="https://www.microsoft.com/store/apps/9NPHPGRRCT5H" target="_blank"><img src=".github/assets/badge-windows-store.svg" height="50"></a>
-  <a href="https://flathub.org/en/apps/app.feeddeck.feeddeck" target="_blank"><img src=".github/assets/badge-flathub.svg" height="50"></a>
+</div>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/feeddeck/id6451055362" target="_blank"><img src=".github/assets/badge-app-store.png" height="50"></a>
+  <a href="https://play.google.com/store/apps/details?id=app.feeddeck.feeddeck" target="_blank"><img src=".github/assets/badge-google-play.png" height="50"></a>
+  <a href="https://app.feeddeck.app" target="_blank"><img src=".github/assets/badge-web.png" height="50"></a>
+  <a href="https://apps.apple.com/us/app/feeddeck/id6451055362" target="_blank"><img src=".github/assets/badge-mac-app-store.png" height="50"></a>
+  <a href="https://www.microsoft.com/store/apps/9NPHPGRRCT5H" target="_blank"><img src=".github/assets/badge-windows-store.png" height="50"></a>
+  <a href="https://flathub.org/en/apps/app.feeddeck.feeddeck" target="_blank"><img src=".github/assets/badge-flathub.png" height="50"></a>
 </p>
 
-<img src=".github/assets/screenshot.png" width="100%" />
-<br><br>
+<div align="center">
+  <img src=".github/assets/screenshot.png" width="100%" />
+  <br><br>
 </div>
 
 **FeedDeck** is an open source RSS and social media feed reader, inspired by
